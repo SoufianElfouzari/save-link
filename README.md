@@ -14,7 +14,7 @@ This Project was one of my first projects, i programmed this a the age of 12, so
 
 ## Installation
 
-No installation required. Run the provided executable or script.
+No installation required. Simply Run the provided script.
 
 ## Usage
 
