@@ -1,63 +1,38 @@
-#save-link
+all images should be left #save-link
 
 save-link is a simple application designed to efficiently store and manage URLs. This project demonstrates basic file handling and user input management.
 
 This Project was one of my first projects, i programmed this a the age of 12, so excuse the Quality
 
-Features
-Save URLs for later access#save-link
+## Features
 
-save-link is a simple application designed to efficiently store and manage URLs. This project demonstrates basic file handling and user input management.
+- Save URLs for later access  
+- Open saved URLs directly  
+- Minimalist, easy-to-use interface
 
-This Project was one of my first projects, i programmed this a the age of 12, so excuse the Quality
+<img src="https://github.com/user-attachments/assets/9ee76492-7ef4-4b66-916d-30f1df51a13b" alt="image" width="507" height="535" style="float:left; margin-right:15px; margin-bottom:15px;" />
 
-Features
-Save URLs for later access
+## Installation
 
-Open saved URLs directly
-
-Minimalist, easy-to-use interface
-
-<img width="507" height="535" alt="image" src="https://github.com/user-attachments/assets/9ee76492-7ef4-4b66-916d-30f1df51a13b" />
-Installation
 No installation required. Run the provided executable or script.
 
-Usage
-Launch the application.
+## Usage
 
-<img width="507" height="540" alt="image" src="https://github.com/user-attachments/assets/f98b7e32-72a7-41de-a0de-d3e99dc7217b" />
-Enter URLs to save.
+1. Launch the application.  
+<img src="https://github.com/user-attachments/assets/f98b7e32-72a7-41de-a0de-d3e99dc7217b" alt="image" width="507" height="540" style="float:left; margin-right:15px; margin-bottom:15px;" />
 
-<img width="504" height="534" alt="image" src="https://github.com/user-attachments/assets/c01b03ef-54ee-4543-a9d7-4f98c93e989d" />
-Select saved URLs to open them.
+3. Enter URLs to save.  
+<img src="https://github.com/user-attachments/assets/c01b03ef-54ee-4543-a9d7-4f98c93e989d" alt="image" width="504" height="534" style="float:left; margin-right:15px; margin-bottom:15px;" />
 
-<img width="507" height="538" alt="image" src="https://github.com/user-attachments/assets/5e2546d0-3b45-46db-beb4-bd7a7f30f71a" />
-License
+4. Select saved URLs to open them.  
+<img src="https://github.com/user-attachments/assets/5e2546d0-3b45-46db-beb4-bd7a7f30f71a" alt="image" width="507" height="538" style="float:left; margin-right:15px; margin-bottom:15px;" />
+
+<br clear="both" />
+
+## License
+
 This project is released under the MIT License. See the LICENSE file for details.
 
-Contact
-For questions or feedback, please contact elfouzari.soufian@gmail.com.
+## Contact
 
-Open saved URLs directly
-
-Minimalist, easy-to-use interface
-
-<img align="left" width="507" height="535" alt="image" src="https://github.com/user-attachments/assets/9ee76492-7ef4-4b66-916d-30f1df51a13b" />
-Installation
-No installation required. Run the provided executable or script.
-
-Usage
-Launch the application.
-
-<img align="left" width="507" height="540" alt="image" src="https://github.com/user-attachments/assets/f98b7e32-72a7-41de-a0de-d3e99dc7217b" />
-Enter URLs to save.
-
-<img align="left" width="504" height="534" alt="image" src="https://github.com/user-attachments/assets/c01b03ef-54ee-4543-a9d7-4f98c93e989d" />
-Select saved URLs to open them.
-
-<img align="left" width="507" height="538" alt="image" src="https://github.com/user-attachments/assets/5e2546d0-3b45-46db-beb4-bd7a7f30f71a" />
-License
-This project is released under the MIT License. See the LICENSE file for details.
-
-Contact
 For questions or feedback, please contact elfouzari.soufian@gmail.com.
