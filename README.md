@@ -2,7 +2,7 @@
 
 save-link is a simple application designed to efficiently store and manage URLs. This project demonstrates basic file handling and user input management.
 
-This Project was one of my first projects, i programmed this a the age of 12, so excuse the Quality
+This Project was one of my first projects, i programmed this a the age of 12, so excuse the Quality.
 
 ## Features
 
